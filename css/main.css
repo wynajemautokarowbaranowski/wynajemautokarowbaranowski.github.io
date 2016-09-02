@@ -15,8 +15,8 @@ ul
 
 li a
 {
-	padding-right: 40px;
-	padding-left: 40px;
+	padding-right: 20px;
+	padding-left: 20px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	text-align: center;
@@ -45,6 +45,7 @@ a:hover
 	color: #ffffff;
 }
 
+
 aside.CMenu
 {
 	float: left;
@@ -53,14 +54,14 @@ aside.CMenu
 article
 {
 
-	margin-left: 230px;
+	margin-left: 250px;
 	padding: 10px;
 	box-shadow: 0 0 16px #000000;
 }
 
 footer
 {
-	font-size: 14px;
+	font-size: 12px;
 
 	top: 10px;
 	position: relative;
@@ -109,4 +110,15 @@ header
 h1
 {
 	text-align: center;
+}
+
+#IContact
+{
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: left;
+	
+	
 }
