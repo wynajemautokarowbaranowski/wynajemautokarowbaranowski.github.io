@@ -9,14 +9,17 @@ body
 
 ul
 {
-	list-style-type: none;
+	list-style-type: circle;
 
 }
 
-li a
+
+.CButton
 {
-	padding-right: 20px;
-	padding-left: 20px;
+
+
+	padding-right: 10px;
+	padding-left: 10px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	text-align: center;
@@ -27,11 +30,6 @@ li a
 
 	font-size: 18px;
 
-}
-a
-{
-
-
 	border-color: #232323;
 	border-style:solid;
 	border-width: thin;
@@ -39,7 +37,7 @@ a
 
 	box-shadow: 0 0 16px #000000;
 }
-a:hover
+.CButton:hover
 {
 	background-color: #232323;
 	color: #ffffff;
@@ -107,15 +105,28 @@ header
 	text-align: center;
 }
 
-h1
+h1, h2, h3, h4, h5, h6
 {
 	text-align: center;
 }
 
+article p
+{
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: justify;
+}
+article ul
+{
+	margin-left: 40px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
 #IContact
 {
-	padding-right: 20px;
-	padding-left: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	text-align: left;
