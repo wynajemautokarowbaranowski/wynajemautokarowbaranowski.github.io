@@ -1,5 +1,6 @@
 body
 {
+	font-family: sans-serif;
 	margin: 0px;
 	padding: 0px;
 	background-size: cover;
@@ -44,10 +45,15 @@ ul
 }
 
 
-aside.CMenu
+aside
 {
 	float: left;
 	margin-top: 20px;
+}
+
+#IMenu
+{
+	margin-left: 10px;
 }
 article
 {
@@ -125,6 +131,7 @@ article ul
 
 #IContact
 {
+	font-size: 12px;
 	padding-right: 10px;
 	padding-left: 10px;
 	padding-top: 15px;
