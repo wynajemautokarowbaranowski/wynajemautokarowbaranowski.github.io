@@ -1,3 +1,3 @@
 # wynajemautokarowbaranowski.github.io
 Wynajem autokarów
-site address: https://wynajemautokarowbaranowski.github.io/
+site address: http://wynajemautokarow.biz.pl/
